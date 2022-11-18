@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.webm
+0/duplicates.db
+0/video.mp4
